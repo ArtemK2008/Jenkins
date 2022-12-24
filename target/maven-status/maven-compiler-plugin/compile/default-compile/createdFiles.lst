@@ -1,5 +1,0 @@
-com\kalachev\jenkins\controllers\Home.class
-configuration\WebAppInitializer.class
-configuration\WebConfig.class
-com\kalachev\jenkins\controllers\ComponentScanInterface.class
-configuration\AppConfig.class
